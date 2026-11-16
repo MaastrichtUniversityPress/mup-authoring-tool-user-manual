@@ -5,3 +5,4 @@ parts:
   - caption: "Chapters"
     chapters:
       - file: chapters/01-getting-started
+      - file: chapters/02-creating-your-first-book
