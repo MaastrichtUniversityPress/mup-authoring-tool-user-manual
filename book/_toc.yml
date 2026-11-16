@@ -10,3 +10,5 @@ parts:
       - file: chapters/04-formatting-your-text
       - file: chapters/05-working-with-images
       - file: chapters/06-bibliography-and-citations
+      - file: chapters/07-checking-your-book
+      - file: chapters/08-publishing-your-book
