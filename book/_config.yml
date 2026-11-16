@@ -21,7 +21,7 @@ sphinx:
         text: "MUP Authoring Tool - User Manual"
       repository_url: "https://github.com/MaastrichtUniversityPress/mup-authoring-tool-user-manual"
       path_to_docs: "book"
-      repository_branch: "main"
+      repository_branch: "version/4rd-chapter"
       use_edit_page_button: true
       use_repository_button: true
       use_issues_button: true
