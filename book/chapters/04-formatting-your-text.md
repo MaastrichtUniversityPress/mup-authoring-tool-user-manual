@@ -6,6 +6,7 @@ Select text or place your cursor on a line, then use the buttons above the writi
 | Button | What it does |
 |--------|--------------|
 | **H2** | Adds a section-heading marker to the selected line |
+| **H3** | Adds a subsection-heading marker to the selected line |
 | **B** | Makes selected text bold |
 | **I** | Makes selected text italic |
 | **• List** | Turns selected lines into bullet points |
