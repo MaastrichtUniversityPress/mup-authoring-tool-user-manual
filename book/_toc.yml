@@ -6,3 +6,4 @@ parts:
     chapters:
       - file: chapters/01-getting-started
       - file: chapters/02-creating-your-first-book
+      - file: chapters/03-writing-content
