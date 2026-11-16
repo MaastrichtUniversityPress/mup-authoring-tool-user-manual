@@ -8,3 +8,5 @@ parts:
       - file: chapters/02-creating-your-first-book
       - file: chapters/03-writing-content
       - file: chapters/04-formatting-your-text
+      - file: chapters/05-working-with-images
+      - file: chapters/06-bibliography-and-citations
