@@ -1,6 +1,4 @@
-# MUP Authoring Tool - First Publishing Workflow
-
-## Welcome! 👋
+# First Publishing Workflow
 
 This guide takes you from opening the app to sharing your first published book version. Follow the steps in order. No technical skills needed!
 
