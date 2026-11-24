@@ -1,12 +1,9 @@
 # MUP Authoring Tool - Frequently Asked Questions
 
-## Welcome! 👋
 
 Have a question about writing or publishing your book? Start here!
 
 These answers cover the current Windows desktop app, **MUP Authoring**. Inside the app, the heading is **MUP Authoring Tool**.
-
-For detailed instructions, see the [User Manual](USER_MANUAL.md). For a complete first-time example, follow the [First Publishing Workflow](FIRST_PUBLISHING_WORKFLOW.md).
 
 ---
 

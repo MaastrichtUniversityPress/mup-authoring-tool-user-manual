@@ -6,8 +6,6 @@ This guide takes you from opening the app to sharing your first published book v
 
 We'll use **"My First TeachBook"** as the example book title and **"first draft"** as the version name. You can use your own names.
 
-For more detail about each tool, see the [User Manual](USER_MANUAL.md). If something goes wrong, check the [FAQ](FAQ.md).
-
 ---
 
 ## Before You Start
@@ -373,4 +371,3 @@ You can keep editing your book. When you are ready to share more changes, publis
 
 **Be careful when switching:** **Use for editing** and opening another GitHub book replace the current local working copy. **New Book** offers **Keep current draft** or **Replace draft**. Preserve unpublished changes before replacing a draft; use **Resume Book** to continue the one already saved.
 
-For the next steps, see [Working with Published Versions](USER_MANUAL.md#working-with-published-versions) or the [FAQ](FAQ.md).
