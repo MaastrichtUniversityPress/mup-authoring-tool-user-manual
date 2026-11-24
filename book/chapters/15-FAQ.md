@@ -1,4 +1,4 @@
-# MUP Authoring Tool - Frequently Asked Questions
+# Frequently Asked Questions
 
 
 Have a question about writing or publishing your book? Start here!
