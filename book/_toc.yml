@@ -17,3 +17,5 @@ parts:
       - file: chapters/11-saving-your-work-and-helpful-tips.md
       - file: chapters/12-tips-for-a-great-book.md
       - file: chapters/13-help-and-cheatsheet.md
+      - file: chapters/14-FIRST_PUBLISHING_WORKFLOW.md
+      - file: chapters/15-FAQ.md
