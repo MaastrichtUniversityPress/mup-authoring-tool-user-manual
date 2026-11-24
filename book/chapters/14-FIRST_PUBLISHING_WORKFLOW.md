@@ -35,7 +35,7 @@ You'll need:
 
 **Close Book** keeps your draft. **Resume Book** appears when a local draft is available and reopens it. Restarting the desktop app opens the home page, where you can resume the saved draft. For this walkthrough, continue with a new book only after preserving any draft you want to keep.
 
-![Home Page](assets/UserManual/UserManual1.png)
+![Home Page](images/usermanual1.png)
 ---
 
 ## Step 2: Connect Your GitHub Account
@@ -54,7 +54,7 @@ An empty list can be normal for a first book. If an existing book is missing or 
 
 If you are already signed in with the correct account, continue to Step 3.
 
-![Connect GitHub screen](assets/UserManual/UserManual2.png)
+![Connect GitHub screen](images/usermanual2.png)
 ---
 
 ## Step 3: Create and Name Your Book
@@ -70,7 +70,7 @@ Use a distinct title for this test book: its GitHub repository name is based on 
 
 **What you should see:** Your book title, an **Introduction** card, and a first chapter card.
 
-![Book Window](assets/UserManual/UserManual3.png)
+![Book Window](images/usermanual3.png)
 
 ---
 
@@ -101,7 +101,7 @@ Start with a heading on the first line. Leave blank lines between paragraphs and
 
 Click **"← Chapters"** when you are ready to continue.
 
-![Editing Area](assets/UserManual/UserManual4.png)
+![Editing Area](images/usermanual4.png)
 
 ---
 
@@ -189,7 +189,7 @@ Only the title is required, but complete source details help readers find the or
 
 **What you should see:** Your sources in the saved reference list.
 
-![Bibliography](assets/UserManual/UserManual5.png)
+![Bibliography](images/usermanual5.png)
 
 ### Insert a Citation
 
@@ -203,7 +203,7 @@ The app automatically selects that source in **Chapter References** and turns on
 
 **What you should see:** A citation in the chapter text and its source in the chapter's references.
 
-![Citation](assets/UserManual/UserManual6.png)
+![Citation](images/usermanual6.png)
 
 ---
 
@@ -238,7 +238,7 @@ Common fixes include adding a real book title, writing content in an empty chapt
 
 **Remember:** Check spelling, links, sample text, and image descriptions yourself. The readiness check does not review the quality of your writing.
 
-![Readiness Check](assets/UserManual/UserManual7.png)
+![Readiness Check](images/usermanual7.png)
 
 ---
 
